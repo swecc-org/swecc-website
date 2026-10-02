@@ -1,0 +1,43 @@
+{
+  "name": "swecc-website",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-router-dom": "^6.10.0"
+  },
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
+    "sync-calendar": "node scripts/sync-calendar.ts",
+    "prestart": "node scripts/sync-calendar.ts",
+    "prebuild": "node scripts/sync-calendar.ts",
+    "start": "vite",
+    "predeploy": "npm i; npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "npm run typecheck && npm run lint && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.node.json",
+    "lint": "oxlint"
+  },
+  "description": "SWECC",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.19.0",
+    "@types/react": "^18.2.79",
+    "@types/react-dom": "^18.2.25",
+    "@vitejs/plugin-react": "^6.1.1",
+    "gh-pages": "^5.0.0",
+    "oxlint": "^1.85.0",
+    "prettier": "^3.2.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}

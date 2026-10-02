@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Hawa Drammeh",
+    "imgSrc": "hawa.webp",
+    "position": "Director of Mentorship, Advisor",
+    "linkedin": "https://www.linkedin.com/in/hawadrammeh/",
+    "github": "https://github.com/hawad416",
+    "portfolio": "https://medium.com/@hawaalid",
+    "email": "hdram3@uw.edu"
+  },
+  {
+    "name": "Shiina Sugioka",
+    "imgSrc": "shiina.webp",
+    "position": "President",
+    "linkedin": "https://www.linkedin.com/in/shiinas/",
+    "email": "shiina12@uw.edu"
+  },
+  {
+    "name": "Elijah Melton",
+    "imgSrc": "elijah.webp",
+    "position": "Mentorship Manager",
+    "linkedin": "linkedin.com/in/elijah-melton/",
+    "github": "https://github.com/elimelt",
+    "email": "elimelt@uw.edu",
+    "portfolio": "https://elimelt.github.io/elijah-dot-com/"
+  },
+  {
+    "name": "Deeksha Vatwani",
+    "imgSrc": "deeksha.webp",
+    "position": "Alumni Network Manager",
+    "linkedin": "https://www.linkedin.com/in/deeksha-vatwani/",
+    "email": "vatwani2@uw.edu"
+  },
+  {
+    "name": "Ruhee Rajwani",
+    "imgSrc": "ruhee.webp",
+    "position": "Marketing Manager",
+    "portfolio": "https://www.rrajwani.com/"
+  },
+  {
+    "name": "Trang Tran",
+    "imgSrc": "trang.webp",
+    "position": "Design Manager",
+    "linkedin": "https://www.linkedin.com/in/trangtran10/",
+    "email": "trangt10@uw.edu"
+  },
+  {
+    "name": "Aditya Khowal",
+    "imgSrc": "adityak.webp",
+    "position": "External Head",
+    "linkedin": "www.linkedin.com/in/aditya-khowal/"
+  },
+  {
+    "name": "Leah Jia",
+    "imgSrc": "leah.webp",
+    "position": "External Outreach",
+    "portfolio": "https://leahjia.com/",
+    "linkedin": "https://www.linkedin.com/in/leahjia",
+    "github": "https://github.com/leahjia"
+  },
+  {
+    "name": "Eric Xiao",
+    "imgSrc": "eric.webp",
+    "position": "External Outreach",
+    "linkedin": "https://www.linkedin.com/in/xiaoe5800/",
+    "github": "https://github.com/mathlord2",
+    "email": "exiao@uw.edu"
+  },
+  {
+    "name": "Aditya Akhileshwaran",
+    "imgSrc": "adityaa.webp",
+    "position": "External Outreach",
+    "linkedin": "https://www.linkedin.com/in/adiakhil/",
+    "email": "aakhiles@uw.edu"
+  },
+  {
+    "name": "David Pham",
+    "imgSrc": "david.webp",
+    "position": "Mentorship Manager",
+    "linkedin": "https://www.linkedin.com/in/phamdavid722/",
+    "email": "phamdavid722@gmail.com"
+  },
+  {
+    "name": "Daniel Bejar",
+    "imgSrc": "daniel.webp",
+    "position": "Opportunities Manager",
+    "email": "danielbejar316@gmail.com"
+  },
+  {
+    "name": "Bhavya Linga",
+    "imgSrc": "bhavya.webp",
+    "position": "Opportunities Manager",
+    "linkedin": "https://www.linkedin.com/in/bhavya-linga-4b274725b/"
+  }
+]
