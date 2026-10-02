@@ -7,7 +7,7 @@
 [![][email-shield]][email-url]
 
 ### Welcome to the codebase for the Software Engineering Career Club (SWECC) website! 🎉
-
+a
 ## About SWECC 🧑‍💻
 
 The Software Engineering Career Club (SWECC) is a student-led organization at the University of Washington dedicated to fostering interest in software engineering, providing networking opportunities, and supporting career growth for aspiring engineers.
